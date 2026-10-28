@@ -6,3 +6,5 @@ To practice repository setup, commits, branching, and remote collaboration.
 -Git version tracking
 -Branching and merging
 -Remote repository synchronization
+## Projects
+- AI
